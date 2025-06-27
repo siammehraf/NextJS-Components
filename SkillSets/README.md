@@ -15,4 +15,4 @@ Components : [Skill Cards with Tailwind CSS](https://tailwindflex.com/@irahoza-d
 
 ## Picture
 
-![Skill Set Screenshot](./SkillSets/Screenshot.png)
+![Skill Set Screenshot](Screenshot.png)
