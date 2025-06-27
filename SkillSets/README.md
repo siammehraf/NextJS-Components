@@ -1,7 +1,7 @@
 ## Components Credit
 
-- Author : [irahoza daniel](<[https://tailwindflex.com/@irahoza-daniel]()>)
-- Components : [Skill Cards with Tailwind CSS](https://tailwindflex.com/@irahoza-daniel/skill-cards-with-tailwind-css)
+- Author: [irahoza daniel](https://tailwindflex.com/@irahoza-daniel)
+- Components: [Skill Cards with Tailwind CSS](https://tailwindflex.com/@irahoza-daniel/skill-cards-with-tailwind-css)
 
 ## Button Credit
 
